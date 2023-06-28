@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #76f1ff;
+    color: #121212;
+  }
+  
+  header {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .discount {
+    color: #e53935;
+    font-weight: bold;
+  }
+  
+  .ofbtn {
+    background-color: #00d5ff;
+    margin-top: 20px;
+    color: black;
+    font-weight: bold; /* Make the text bold */
+    border-radius: 25px; /* Make the button rounder */
+  }
+  
+  
